@@ -1,0 +1,12 @@
+# Site settings
+title: Sam blogs
+email: sam@jonez.info
+description: > # this means to ignore newlines until "baseurl:"
+  A collection of technical notes, tutorials, and opinion pieces from Sam.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.jonez.info" # the base hostname & protocol for your site
+twitter_username: jamuel_scones
+github_username:  jamscones
+
+# Build settings
+markdown: kramdown
