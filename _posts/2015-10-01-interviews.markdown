@@ -3,7 +3,7 @@ layout: post
 title: "So recently I had a lot of interviews ..."
 date: 2015-10-01 00:00:00
 categories: contracting
-draft: true
+published: false
 ---
 Backstory: I'd quit my job to setup a start up. That's the dream and it's all very exciting but dreaming doesn't put food on the table so early on I imposed a condition on myself: "You have a year to prove that you can live this way, otherwise you'll have to be realistic and start considering perment roles again".
 
