@@ -92,4 +92,4 @@ Maybe when this runs HTTPD is already started so the service stanza that is also
 
 So that’s a basic manifest file that sets up a very simple web server. It is however a long way from ideal. Probably the main thing that’s inconvenient about this is that we need to specify the content of each file we modify in the manifest file which will obviously get cumbersome. But don’t worry! We’ll fix that later in the series.
 
-[Part 2]: /2015/09/09/puppet-part2-puppet-master.html
+[Part 2]: /puppet/howto/2015/09/09/puppet-part2-puppet-master.html
