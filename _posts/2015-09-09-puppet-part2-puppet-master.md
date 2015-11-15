@@ -32,7 +32,9 @@ Then:
     rm -rf /var/lib/puppet/ssl/*
     systemctl start puppetmaster
 
-So this will start puppet master up again, it’ll see if doesn’t have a cert and regenerate the certificate authority, then read the config to work out what it’s server cert should have for a common name.
+Strictly speaking, you don't need to run the stop and rm commands if you've just installed puppetmaster. But maybe you're like me and start searching for howtos once you've already started and got stuck? If so then you need those lines ... 
+
+So anyway, this will start puppet master up again, it’ll see if doesn’t have a cert and regenerate the certificate authority, then read the config to work out what it’s server cert should have for a common name.
 
 A word on hostnames; it’s really important that you have working  forward and reverse DNS for all your puppet nodes nothing will work properly if you don’t. If you don’t have the necessary control over your DNS to setup forward and reverse records, then you’ll need to make sure every host has the relevant hostnames and IP addresses in /etc/hosts as a workaround. Obviously, using /etc/hosts on a large scale is going to get unwieldy so for anything other than a play installation your want to get your DNS sorted.
 
