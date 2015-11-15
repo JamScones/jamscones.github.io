@@ -28,9 +28,9 @@ add the following to the [main] section of the config:
 
 Then:
 
-    systemctl stop puppetmaster
+    systemctl stop puppetserver
     rm -rf /var/lib/puppet/ssl/*
-    systemctl start puppetmaster
+    systemctl start puppetserver
 
 Strictly speaking, you don't need to run the stop and rm commands if you've just installed puppetmaster. But maybe you're like me and start searching for howtos once you've already started and got stuck? If so then you need those lines ... 
 
