@@ -23,9 +23,8 @@ Later in the series I will cover:
 
 * [Part 2] - puppet master setup
 * puppet file server
+* puppet modules
 * puppet environments
-* using puppet modules
-* writing puppet modules.
 
 #Install puppet agent
 

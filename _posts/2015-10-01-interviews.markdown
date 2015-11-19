@@ -23,6 +23,14 @@ At one place, I headed to the interview expecting it to take about an hour, mayb
 
 ####*Think about how much time you'd spend evaluating which switch or server to buy. A member of staff is going to cost more money, but normally people will spend less time considering that choice.*
 
+This was a far stronger approach than the my long term employer. At the prevous place you have to under go some training before you're allowed to be an interviewer. It's regarded in much the same way as most corporate training is, but I was quite a fan of what it was trying to do. The main messages were:
+
+* don't be a bigot
+* think about what you hope to learn from the questions you ask.
+
+They were massively unkeen about the question "Why do you want this job?", personally I think it has a place, but I can also see why they didn't like it: you're often unlikely to like the honest answer ("I wanna get paid" is some how negative), which means everybody will likely lie to you because they want to avoid the honest answer, and whatever they say it very rarely reveals anything about the candidate which will help you make a choice.
+
+Another thing I took away from them; it's better to ask questions in a way that help the candidate show the best of their ability, than to treat it like a competition and aim to ask trick questions to try and catch people out. For a lot of people it's already a stressful situtation and whilst you'll likely find people who handle that style of question well, you may have found one of the other candidates would have been a better fit.
 A more common approach is to try and weed out some people with a pre-interview phone call, TODO
 
 TODO this next bit follows poorly
