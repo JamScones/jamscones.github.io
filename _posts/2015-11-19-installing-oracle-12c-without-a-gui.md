@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Installing Oracle 12c without needing a windowing system on the server"
-date: 2015-05-13 00:00:00
+date: 2015-11-19 00:00:00
 categories: Howto
 published: false
 ---
