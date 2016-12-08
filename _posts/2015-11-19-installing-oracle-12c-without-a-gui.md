@@ -3,21 +3,25 @@ layout: post
 title: "Installing Oracle 12c without needing a windowing system on the server"
 date: 2015-11-19 00:00:00
 categories: Howto
-published: false
+published: true
 ---
 
 #What?
 
 Oracle 12c is a database server that some people want to use. I need to install it, most of the advice appears to be about how to install it using the pointy clicky interface, I want to keep it all in console.
 
-#Why?
+#Disclaimer
 
-Because who clicks through graphical installers these days, it's a bit retro? Plus most servers I've worked on don't *have* a windowing system. A lot of them are no where near me and remote X-windows is not a happy place. Also, ultimately I don't want to do the install at all, I want a config management system to do that and that's not going to be able to click at stuff.
+I'm not a Oracle expert. I'm not even a Oracle novice. In the context of Oracle ''I don't know what I'm doing'' And I'm really happy with a future employer knowing that; I'm not interested in work with Oracle Databases. Therefore I cannot guarentee I've done the Oracle part of this correctly. This page is really just the notes I collected whilst trying to get automated install of Oracle Database working and it was hard enough that maybe a line or two of them will be useful to someone else.
+
+#Why do this?
+
+Because who clicks through graphical installers these days. Plus most servers I've worked on don't *have* a windowing system. A lot of them are no where near me and remote X-windows is not a happy place. Also, ultimately I don't want to do the install at all, I want a config management system to do that and that's not going to be able to click at stuff.
 
 #How ... 
 
 ## Swap
-Before you begin you need to make sure you have the right amount of swap. Lots of the time people will tell you their software needs this that and the other but then the installer will merrily let you install the software and run with less than the recommended amounts. Oracle database isn't like that, the amount of swap you have needs to be correct go to https://docs.oracle.com/database/121/LADBI/pre_install.htm#LADBI7505 and check.
+Before you begin you need to make sure you have the right amount of swap. Often software houses will tell you their software needs this that and the other but the installer will merrily let you install the software and run with less than the recommended amounts. Oracle database isn't like that, the amount of swap you have needs to be correct go to https://docs.oracle.com/database/121/LADBI/pre_install.htm#LADBI7505 and check.
 
 ## Hostname
 
