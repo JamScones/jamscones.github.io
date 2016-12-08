@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Installing Oracle 12c without needing a windowing system on the server"
