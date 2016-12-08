@@ -3,6 +3,7 @@ layout: post
 title: "Shibboleth SP 2.5.4 & CentOS 7.1"
 date: 2015-05-13 00:00:00
 categories: Shibboleth Howto
+published: true
 ---
 
 ##Prerequisites:

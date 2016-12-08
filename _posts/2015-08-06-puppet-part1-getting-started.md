@@ -3,6 +3,7 @@ title: "Puppet part 1: Getting started with a basic manifest file"
 date: 2015-08-06 00:00:00
 categories: puppet howto
 layout: post
+published: true
 ---
 
 #Introduction

@@ -3,6 +3,7 @@ layout: post
 title: "Standing on my own two feet"
 date: 2015-05-10 00:00:00
 categories: self-employed contracting start-up bootstrapping
+published: true
 ---
 
 

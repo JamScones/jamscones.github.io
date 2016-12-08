@@ -3,6 +3,7 @@ title: "Shibboleth IDP 3.1.1 on CentOS 7.1 with RemoteUser based authentication"
 layout: post
 date: 2015-05-15 00:00:00
 categories: shibboleth howto
+published: true
 ---
 ##Intro: who would want to read this
 
