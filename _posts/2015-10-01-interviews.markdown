@@ -5,7 +5,7 @@ date: 2015-10-01 00:00:00
 categories: contracting
 published: true
 ---
-#Backstory
+# Backstory
 
  I'd quit my job to setup a start up. That's the dream and it's all very exciting but dreaming doesn't put food on the table so early on I imposed a condition on myself: "You have a year to prove that you can live this way, otherwise you'll have to be realistic and start considering perment roles again".
 
@@ -13,7 +13,7 @@ Now this year I've got quite a lot of development work done on the startup idea 
 
 First off, I timed my entry into this poorly! I started applying for contract roles around mid-august meaning that I was going for roles at the exact time that anyone who could make a decision was away on holiday. As a result the going was pretty slow right up until September when suddenly the phone started to ring off the hook. Until that happened though I had all the mental self doubt that you might imagine, I didn't realise it was a timing issue until after the event.
 
-#It's very different out there!
+# It's very different out there!
 
 My inital fear was that my previous employer were doing things in an out of date way and I was going to get a bit of shell shock when I found everyone was doing it in a better, new, way.
 
@@ -21,7 +21,7 @@ That wasn't it at all. The oddly surprising thing for me was how much variation 
 
 At one place, I headed to the interview expecting it to take about an hour, maybe an hour and a half if it was going well, but then actually spend the whole day being interviewed one by one by half the team, then come back on another day to be interview by the other half! On the end of the first day (I didn't know about the 2nd yet) I commented to the final interviewer that it had been the most rigerous and intensive interview process I'd ever seen (we covered a lot of ground on that first day). His reply was insightful and well phrased, frustratingly I can't remember it exactly:
 
-####*Think about how much time you'd spend evaluating which switch or server to buy. A member of staff is going to cost more money, but normally people will spend less time considering that choice.*
+#### *Think about how much time you'd spend evaluating which switch or server to buy. A member of staff is going to cost more money, but normally people will spend less time considering that choice.*
 
 This was a far stronger approach than I'd seen before. In a prevous role, one would have to under go on a training course before you'd be allowed to be an interviewer. The course itself was pretty corporate and cringeworth at times, but I was quite a fan of what it was trying to do. The main messages were:
 
@@ -38,7 +38,7 @@ In general though most places did an initial screening call with a few simple
 questions, then maybe a practical test, then a face to face for some more in
 depth questioning.
 
-#Practical tests
+# Practical tests
 
 Interestingly tests were both much less prevelant than I expected (I thought they'd be nearly ubquitous for the contracts I was applying for), and much fairer than I expected. I expected obsecure and hard with no access to realistic tools like Google, instead in general people seemed to allow access to Google if one would normally have that access (who doesn't Google unfamilar error messages?). One place I applied did this entirely Online which I thought worked pretty well; you just go to the url when you know you'll have the time spare, answer the questions, logon to and fix the specified VM for the practical. Very tidy setup. I also realise now in retrospect that I was only a little less nerveous before tests like that than I was before an actual interview.
 
@@ -46,15 +46,15 @@ In the past I've been involved in recruitment panels, and I've seen situations w
 
 The best practical tests I saw gave a bunch of core things you needed to do, then a bunch of optional extras. They were also obviously structured in such a way that getting stuck on problem one didn't stop you skipping ahead and doing something worthwhile on problem 2. I also came across tests that gave *way* more work than could reasonably be achieved in the timeframe which I thought was pretty good; how does the candidate prioritise work?
 
-#Questions
+# Questions
 
 So I've seen interviews happen where people have tried to appoint people for a highly technical roles without asking many deep technical questions, it's a dangerous game. There are a whole set of people in the world who have more confidence than their skill merits and they're able to talk themselves up quite convincingly. In fact I believe there is some research that shows that often a more skilled candidate will talk less confidently about that subject area than someone who has poor skill. [https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect]
 
-####Good
+#### Good
 
 * *"Explain as fully as you can what happens when you visit a web page"*
 
-####Bad
+#### Bad
 
 Bad questions, in my opnion, are ones that don't really tell you anything useful about the candidate. I think a lot of the time people instinctively feel they need to ask difficult questions that tie the candidate up in knots. Questions that leave you open to being bullshitted are also poor in my view; if you ask lots of questions where it's possible to give a bullshit response you'll probably end up working with the best bullshiter. However, maybe that's useful to you, who knows. Here are some examples of what I think are poor questions:
 
