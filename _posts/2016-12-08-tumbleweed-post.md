@@ -8,7 +8,8 @@ published: true
 # Tumble weed
 
 Wow, over a year since I last updated this! Here's an obligitory "I must try harder" post and a interesting tree.
-!(images/TreeAndRock.JPG)
+
+![foo](http://blog.jonez.info/images/TreeAndRock.JPG)
 
 What happened in the last year?:
 
