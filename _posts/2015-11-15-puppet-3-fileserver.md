@@ -3,7 +3,7 @@ title: "Puppet part 3: file server"
 date: 2015-11-15 08:33:00
 layout: post
 categories: puppet howto
-published: true
+published: false
 ---
 
 This is really easy, but it took me a long time to find out about. When I was trying to find out how to distribute files using puppet I'd normally hit upon people who were recommending creating a module and then serving the items out of there which seemed a bit broken to me. Especially when people would use example module names that implied they had created the module purely for the purpose of serving files.

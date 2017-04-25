@@ -3,7 +3,7 @@ layout: post
 title: "Puppet part 2: basic puppet master setup"
 date: 2015-09-09 00:00:00
 categories: puppet howto
-published: true
+published: false
 ---
 
 In [part 1] we went over the absolute basics of setting up a basic manifest file, it’s a start but there’s a lot more useful stuff to learn. Probably the next most important thing to go through is setting up a Puppet Master. Doing so will let you centralize the management of your infrastructure which is useful if you’re managing a large estate.
